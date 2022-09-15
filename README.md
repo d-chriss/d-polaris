@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chrisseys
-- 👀 I’m interested in learning coding, I am going a college next year where I will be taking the "MatPro" line (Mathematics and Programming).
+- 👀 I’m interested in learning coding, I am going a school next year where I will be taking the "MatPro" line (Mathematics and Programming).
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on fun small projects, something that could help boost my knowledge.
 - 📫 How to reach me >> You can email me at ChrisseyJDM@gmail.com, or message me on Instagram at @apocalyptic.chris
